@@ -33,33 +33,6 @@ Whether you're a beginner, a student, or someone looking for project ideas, you'
 
 ---
 
-# 📂 Projects
-
-| No. | Project                      | Difficulty | Status |
-| :-: | ---------------------------- | :--------: | :----: |
-|  01 | 🎥 Video to GIF Converter    |      ⭐     |    ✅   |
-|  02 | 🔊 Text to Speech Converter  |      ⭐     |    ✅   |
-|  03 | 🖼️ Background Remover       |      ⭐     |    ✅   |
-|  04 | 📄 PDF Merger                |      ⭐     |   🚧   |
-|  05 | 🔐 Password Generator        |      ⭐     |   🚧   |
-|  06 | 🔳 QR Code Generator         |      ⭐     |   🚧   |
-|  07 | 📷 Image Resizer             |      ⭐     |   🚧   |
-|  08 | 📝 Word Counter              |      ⭐     |   🚧   |
-|  09 | 🔑 Password Strength Checker |     ⭐⭐     |   🚧   |
-|  10 | 🎲 Dice Roller               |      ⭐     |   🚧   |
-|  11 | ✊ Rock Paper Scissors        |      ⭐     |   🚧   |
-|  12 | 🎯 Number Guessing Game      |      ⭐     |   🚧   |
-|  13 | ❌⭕ Tic-Tac-Toe               |     ⭐⭐     |   🚧   |
-|  14 | 📒 Contact Book              |     ⭐⭐     |   🚧   |
-|  15 | 💰 Expense Tracker           |     ⭐⭐⭐    |   🚧   |
-|  16 | 🌦️ Weather App              |     ⭐⭐⭐    |   🚧   |
-|  17 | 🌍 Language Translator       |     ⭐⭐⭐    |   🚧   |
-|  18 | 📧 Email Sender              |     ⭐⭐⭐    |   🚧   |
-|  19 | 🗂️ File Organizer           |     ⭐⭐⭐    |   🚧   |
-|  20 | 🕒 Digital Clock             |     ⭐⭐⭐    |   🚧   |
-
----
-
 ## 🛠️ Technologies & Libraries
 
 * Python 3
