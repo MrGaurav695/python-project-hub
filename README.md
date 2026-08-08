@@ -60,7 +60,7 @@ python-project-hub/
 ├── 01_video_to_gif_converter/
 ├── 02_text_to_speech/
 ├── 03_background_remover/
-├── 04_ food_ordering_system/
+├── 04_food_ordering_system/
 ├── 05_password_generator/
 ├── ...
 │
